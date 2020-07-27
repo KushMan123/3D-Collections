@@ -8,3 +8,4 @@ Added : 3. Bowling Pin
 Added : 4. Chess set
 Added : 5. Dressing Table
 Added : 6. Low Poly Gun
+Added : 7. Microphone from Blue Company
