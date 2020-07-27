@@ -1,0 +1,8 @@
+The International Chess Federation says chess board squares should be 2 to 2.5 inches (5 to 6.5 centimeters). This means standard chess board size is 16 to 20 inches, plus the border.
+
+Pawn 15cm*26cm
+Root 17cm*29cm
+Knight 16cm * 31 cm
+Bishop 16cm*36cm
+Queen 18cm*41cm
+King 19cm*50cm
