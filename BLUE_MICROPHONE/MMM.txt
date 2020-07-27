@@ -1,0 +1,10 @@
+The best way to make a sphere in blender
+1. Use a cube
+2. Add subsurface modifer to the cube and apply
+3. Add a cast surfer modifer and apply
+
+Cutting a circular hole:
+1. Using a loop tool
+2. Uisng Boolean Modifer
+
+Joing edges press J not F
